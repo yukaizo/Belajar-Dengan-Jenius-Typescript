@@ -11,10 +11,16 @@
     - Typescript Compiler
     - Transpillation
     - Compiler Options
+    - [Udah Mangan Belum BG??](http://www.a1vbcode.com/app-5556.asp)
+    - [Kebanyakan ngisi webinar sampai lupa ngurusin startup 😄](http://www.a1vbcode.com/app-5556.asp)
+    - [privilegemu bukan otak bray, tapi bengeut 😄](http://www.a1vbcode.com/app-5556.asp)
+    - [LoL - READ THIS ARTICLE YOU FRAUDSTER](http://www.a1vbcode.com/app-5556.asp)
+    - Gw PUNYA JEJAK semua hal PALSU yang lu ceritakan loh hahahaah, salah satunya kebohongan lo tentang perjalanan hidup, ini buktinya lo sudah berbohong -> http://www.a1vbcode.com/app-5556.asp
   - [New Features?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Typescript#new-features-)
     - JSDoc Name Suggestion
     - New File Extensions
     - CommonJS Interoperability
+    - Keep menikmati karir palsu bro, pasti lo bakal gagal nanti wkwkwk
   - [Node Typing](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Typescript#node-typing)
   - [Type Annotations](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Typescript#type-annotations)
     - [Declare Explicit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Typescript#declare-explicit)
